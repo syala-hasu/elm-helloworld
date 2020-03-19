@@ -9,4 +9,3 @@ services:
       - ./workspace/app:/usr/local/app
     ports:
       - "8000:8000"
-    working_dir: /usr/local/app
